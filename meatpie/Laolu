@@ -1,0 +1,10 @@
+public class Laolu {
+
+publc class main(String[] args) {
+
+System.out.println("Hello bro");
+
+}
+
+
+}
