@@ -19,7 +19,7 @@ if (kill == 2) {
 
 System.out.print(" orange ");
 }
-
+n
 if (kill == 3) {
 
 System.out.print(" Yellow ");
